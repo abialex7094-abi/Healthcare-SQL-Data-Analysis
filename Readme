@@ -125,24 +125,22 @@ This project provides hands-on practice in:
 
 ## 9. Repository Structure
 
-```text
-Healthcare-SQL-Data-Analysis/
+
+Healthcare-SQL-Data-Analysis:
 │
 ├── README.md
 ├── Creating database and tables.sql
-├── Data verification & Data validation.sql
-├── SQL Queries and Business Problem-Solving.sql
 ├── Inserting datas 1.sql
 ├── Inserting datas 2.sql
 ├── Inserting datas 3.sql
 ├── Inserting datas 4.sql
-├── Healthcare_SQL_Project_90_Questions_Answers.pdf
+├── Data verification & Data validation.sql
+├──erd/ Healthcare ER Diagram
+├── SQL Queries and Business Problem-Solving.sql
 │
-├── datasets/
-│   └── Healthcare CSV files
-│
-└── erd/
-    └── Healthcare ER Diagram
+├── datasets
+      └── Healthcare CSV files
+
 
 
 ##10. How to Run the Project
