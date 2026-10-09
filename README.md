@@ -143,7 +143,7 @@ Healthcare-SQL-Data-Analysis:
 
 
 
-##10. How to Run the Project
+## 10. How to Run the Project
 
 1. Install MySQL and open MySQL Workbench.
 2. Execute the database and table creation script.
